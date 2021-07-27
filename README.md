@@ -1,5 +1,7 @@
 # m5core2-clock
 
+<img src="https://raw.githubusercontent.com/sixty-nine/m5core2-clock/main/preview.png" width="250">
+
 Simple UIFlow clock with weather and moon phases for M5Core2.
 
 Created to teach myself M5 UIFlow.
